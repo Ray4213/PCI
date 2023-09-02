@@ -1,2 +1,2 @@
 # PCI
-Trabalhos de Pci do Curso da ETEC
+Trabalhos de Programação de Computadores do Curso da ETEC
