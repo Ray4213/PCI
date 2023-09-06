@@ -12,6 +12,7 @@ namespace exArray2
 {
     public partial class Form1 : Form
     {
+      /*Digitar 5 números e verificar qual é o maior*/
         int[] Numeros = new int[5];
         int i = 0;
         public Form1()
