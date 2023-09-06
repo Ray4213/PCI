@@ -12,6 +12,8 @@ namespace exArray1
 {
     public partial class Form1 : Form
     {
+
+    /*Calcular a média de 10 números digitados pelo usuário.*/
         float[] Num = new float[10];
         int i = 0;
         public Form1()
