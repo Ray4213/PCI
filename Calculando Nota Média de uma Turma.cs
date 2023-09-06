@@ -12,6 +12,9 @@ namespace exArray6
 {
     public partial class Form1 : Form
     {
+/*Alimente um vetor que contenha as notas de uma turma de 10 alunos. 
+Calcular a média da turma e contar quantos alunos obtiveram nota acima desta média calculada. 
+Escrever a média da turma e o resultado da contagem.*/
         float[] notas = new float[10];
         int i = 0;
         public Form1()
