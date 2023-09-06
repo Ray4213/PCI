@@ -12,6 +12,9 @@ namespace exArray5
 {
     public partial class Form1 : Form
     {
+/*Escreva uma aplicação no qual o usuário deverá informar 10 números inteiro e maiores que Zero em um array. 
+Em um segundo array, armazene apenas os números pares e em um terceiro array apenas os ímpares, vindos do primeiro array. 
+Exiba os 3 vetores, todos em ordem crescente.*/
         float[] numeros = new float[10];
         float[] par;
         float[] impar;
