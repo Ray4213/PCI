@@ -12,6 +12,8 @@ namespace exArray3
 {
     public partial class Form1 : Form
     {
+      /*Solicite ao usuário 10 idades e apresente quantas são maiores de idade e quantas são menores de idade*/
+
         int[] idade = new int[10];
         int i = 0;
         public Form1()
