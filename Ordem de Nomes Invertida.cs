@@ -12,6 +12,8 @@ namespace exArray4
 {
     public partial class lbNomes : Form
     {
+      /*Solicite ao usuário 5 nomes e apresente de forma invertida(do último para o primeiro)*/
+
         string[] nomes = new string[5];
         int i = 0;
         public lbNomes()
